@@ -50,6 +50,45 @@ git add .
 ## asignar un mensaje de  MODIFICIACION ()
 
 ```
-git commit -m "Estructura de base de nodejs" 
+git commit -m "Estructura de base de nodejs+express" 
 
 ```
+
+# subir luego a GITHUB, GITLAB Y gitbackend
+# IR LA PAGINA GITHUB
+
+##  ASIGNAR UN REPORSITORIO DE GITHUB subir 
+
+```
+git remote add origin https://github.com/EdgarSalcedoCodnori/node-express.git
+
+```
+##      QUIERO SUBIR MI PRYECTO A MI ORGIN R A LA RAMA PRICNIPAL--
+
+### subir al reprositorio en github
+ ```
+ git push -u origin master
+
+ ```
+ ### LUEGO ME PEDRA LA CONTRASEÑA DE mi cuenta github....introducir datos y aceptar..
+### ASI ACEPAR TODAS LAS OPCIONES...O PERMISOS
+
+
+# FINALMENTE PARA AÑADIR CAMBIAS DE COMMITA DE CODIGO FUIENTE...SUBIR
+
+ ```
+ git add.
+
+ git commit -m "cambio realizado en el index ..RUTAS"
+ 
+  ```
+
+# FINALMENTE ...SUBIR...........
+
+ ```
+ 
+ git push origin master     
+
+ ```
+
+# fin
